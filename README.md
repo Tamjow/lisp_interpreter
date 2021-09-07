@@ -1,5 +1,5 @@
 # lisp_interpreter
-A small lisp interpreter based on Peter Norvig's lispy.
+A small lisp interpreter based on [Peter Norvig's lispy](https://norvig.com/lispy.html).
 
 To start using it run the lisp.py file, which will start a lisp repl (Read–eval–print loop), which can be used to test lisp expressions.
 
